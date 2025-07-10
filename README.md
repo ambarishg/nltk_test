@@ -1,0 +1,1 @@
+docker run -it nltk_test:latest stopwords.py
